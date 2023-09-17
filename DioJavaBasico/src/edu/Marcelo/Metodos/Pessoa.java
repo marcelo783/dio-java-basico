@@ -1,4 +1,4 @@
-package edu.Marcelo.primeirasemana;
+package edu.Marcelo.Metodos;
 
 import java.util.Locale;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package edu.Marcelo.primeirasemana;
+package edu.Marcelo.Metodos;
 
 public class Usuario {
 
